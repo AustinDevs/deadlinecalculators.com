@@ -17,6 +17,7 @@ tags:
   - Muscle Toning
   - Weight Loss
   - Fitness Community
+  - featured
 ---
 
 Indoor cycling, a trend that has been pedaling its way into the hearts of fitness enthusiasts worldwide, isn't just a fleeting fad. It's a full-fledged workout regime that promises and delivers significant benefits to physical health. In this blog post, we delve into how embracing the world of indoor cycling, particularly at studios like CycleBar, can lead you on a journey to improved physical wellness.
@@ -64,6 +65,3 @@ Here are some beginner tips for those new to indoor cycling:
 Indoor cycling is a potent way to enhance your physical health. It's an exercise that caters to people of all fitness levels and ages, making it a versatile choice for anyone looking to improve their physical wellness.
 
 Whether you're a fitness newbie or a seasoned athlete, indoor cycling, especially at a studio like CycleBar, offers a path to enhanced health and a fun, community-driven workout experience.
-
----
-

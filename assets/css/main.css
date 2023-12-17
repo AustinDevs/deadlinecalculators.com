@@ -9,7 +9,7 @@
   --indigo: #502c6c;
   --purple: #ad6edd;
   --pink: #ff0266;
-  --red: #ea2f65;
+  --red: #b70218;
   --orange: #fbb500;
   --yellow: #ffde03;
   --green: #03a87c;
@@ -24,7 +24,7 @@
   --success: #03a87c;
   --info: #09ebaf;
   --warning: #ffde03;
-  --danger: #ea2f65;
+  --danger: #b70218;
   --light: #f8f9fa;
   --dark: #212529;
   --white: #fff;
@@ -1852,12 +1852,12 @@ fieldset:disabled a.btn {
 
 .btn-danger {
   color: #fff;
-  background-color: #ea2f65;
-  border-color: #ea2f65; }
+  background-color: #b70218;
+  border-color: #d0021b; }
   .btn-danger:hover {
     color: #fff;
-    background-color: #dc1650;
-    border-color: #d1154b; }
+    background-color: #b70218;
+    border-color: #d0021b; }
   .btn-danger:focus, .btn-danger.focus {
     box-shadow: 0 0 0 0.2rem rgba(234, 47, 101, 0.5); }
   .btn-danger.disabled, .btn-danger:disabled {
@@ -1867,7 +1867,7 @@ fieldset:disabled a.btn {
   .btn-danger:not(:disabled):not(.disabled):active, .btn-danger:not(:disabled):not(.disabled).active,
   .show > .btn-danger.dropdown-toggle {
     color: #fff;
-    background-color: #d1154b;
+    background-color: #d0021b;
     border-color: #c51447; }
     .btn-danger:not(:disabled):not(.disabled):active:focus, .btn-danger:not(:disabled):not(.disabled).active:focus,
     .show > .btn-danger.dropdown-toggle:focus {
@@ -3905,7 +3905,7 @@ input[type="button"].btn-block {
   .badge-danger[href]:hover, .badge-danger[href]:focus {
     color: #fff;
     text-decoration: none;
-    background-color: #d1154b; }
+    background-color: #d0021b; }
 
 .badge-light {
   color: #212529;
@@ -4075,7 +4075,7 @@ input[type="button"].btn-block {
   .alert-danger hr {
     border-top-color: #e81854; }
   .alert-danger .alert-link {
-    color: #d1154b; }
+    color: #d0021b; }
 
 .alert-light {
   color: #f8f9fa;
@@ -5062,7 +5062,7 @@ button.bg-warning:focus {
 a.bg-danger:hover, a.bg-danger:focus,
 button.bg-danger:hover,
 button.bg-danger:focus {
-  background-color: #d1154b !important; }
+  background-color: #d0021b !important; }
 
 .bg-light {
   background-color: #f8f9fa !important; }
@@ -7194,7 +7194,7 @@ a.text-warning:hover, a.text-warning:focus {
   color: #ea2f65 !important; }
 
 a.text-danger:hover, a.text-danger:focus {
-  color: #d1154b !important; }
+  color: #d0021b !important; }
 
 .text-light {
   color: #f8f9fa !important; }

@@ -17,7 +17,7 @@ tags:
   - Health Improvement
 ---
 
-Embarking on an indoor cycling journey can be both exciting and intimidating, especially for beginners. It’s a fantastic way to improve your fitness, meet new people, and have fun. In this blog post, we provide essential tips and tricks for those starting out, using CycleBar, a premier indoor cycling studio, as our example.
+Embarking on an indoor cycling journey can be both exciting and intimidating, especially for beginners. It's a fantastic way to improve your fitness, meet new people, and have fun. In this blog post, we provide essential tips and tricks for those starting out, using CycleBar, a premier indoor cycling studio, as our example.
 
 ## Understanding Indoor Cycling
 

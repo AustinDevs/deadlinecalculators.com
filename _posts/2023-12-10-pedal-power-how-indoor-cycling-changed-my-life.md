@@ -15,6 +15,7 @@ tags:
   - CycleBar
   - Health and Wellness
   - Motivation
+  - featured
 ---
 
 In this deeply personal account, I share how indoor cycling, particularly at CycleBar, has been a transformative experience, shaping not just my body but my entire life.
@@ -33,12 +34,12 @@ Over the months, I noticed profound changes. Not only was I losing weight and ga
 
 ## CycleBar: A Community of Support
 
-CycleBar wasn’t just a studio; it became my sanctuary. The instructors knew my name, my goals, and my challenges. They pushed me when I needed it and celebrated every milestone with me.
+CycleBar wasn't just a studio; it became my sanctuary. The instructors knew my name, my goals, and my challenges. They pushed me when I needed it and celebrated every milestone with me.
 
 ## Life Beyond the Bike
 
 The discipline and resilience I developed in indoor cycling classes began to seep into other areas of my life. I became more confident, productive, and overall happier. Indoor cycling taught me the importance of self-care and setting time aside for my well-being.
 
 
-Indoor cycling, especially at CycleBar, has been more than just a physical workout; it’s been a journey of personal growth and transformation. This experience has taught me that with determination and the right support, you can overcome any challenge and achieve your goals.
+Indoor cycling, especially at CycleBar, has been more than just a physical workout; it's been a journey of personal growth and transformation. This experience has taught me that with determination and the right support, you can overcome any challenge and achieve your goals.
 

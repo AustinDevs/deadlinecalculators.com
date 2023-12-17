@@ -17,6 +17,7 @@ tags:
   - Self-Esteem
   - Community
   - Exercise and Wellness
+  - featured
 ---
 
 Indoor cycling isn't just a journey for the body; it's also a sanctuary for the mind. In today's fast-paced world, mental health has taken a forefront in our quest for a balanced lifestyle. Through the lens of indoor cycling, particularly in a setting like CycleBar, we explore how this dynamic exercise can be a powerful tool in enhancing mental well-being.
@@ -35,7 +36,7 @@ Regular physical activity like indoor cycling has been shown to stimulate brain 
 
 ### Improved Sleep Quality
 
-Engaging in regular indoor cycling can lead to better sleep patterns. Exercise reduces stress and tires you out, contributing to a more restful night’s sleep.
+Engaging in regular indoor cycling can lead to better sleep patterns. Exercise reduces stress and tires you out, contributing to a more restful night's sleep.
 
 ### Increased Self-Esteem and Confidence
 
@@ -47,7 +48,7 @@ CycleBar offers a community environment where individuals can connect, share exp
 
 ## The CycleBar Experience
 
-At CycleBar, the focus isn’t just on physical fitness; it’s about creating an environment that supports mental well-being:
+At CycleBar, the focus isn't just on physical fitness; it's about creating an environment that supports mental well-being:
 
 - **Inspirational Instructors**: CycleBar instructors are not just fitness coaches; they are motivators who encourage a positive mental attitude.
 - **Supportive Community**: The group setting at CycleBar fosters a sense of belonging and community, crucial for mental health.
@@ -55,9 +56,9 @@ At CycleBar, the focus isn’t just on physical fitness; it’s about creating a
 
 ## Tips for Beginners
 
-If you’re new to indoor cycling, here are a few tips to ensure you enjoy the mental health benefits:
+If you're new to indoor cycling, here are a few tips to ensure you enjoy the mental health benefits:
 
-- **Start Slow**: Don’t feel pressured to keep up with experienced cyclers. Start at your own pace.
+- **Start Slow**: Don't feel pressured to keep up with experienced cyclers. Start at your own pace.
 - **Set Personal Goals**: Set achievable goals to help maintain motivation and a sense of accomplishment.
 - **Enjoy the Ride**: Focus on the experience, not just the workout. Enjoy the music, the community, and the energy.
 
