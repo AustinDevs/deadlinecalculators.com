@@ -3309,6 +3309,12 @@ input[type="button"].btn-block {
   .navbar-brand:hover, .navbar-brand:focus {
     text-decoration: none; }
 
+@media (max-width: 575.98px) {
+  .navbar-brand {
+    font-size: 1.25rem !important;
+  }
+}
+
 .navbar-nav {
   display: flex;
   flex-direction: column;
