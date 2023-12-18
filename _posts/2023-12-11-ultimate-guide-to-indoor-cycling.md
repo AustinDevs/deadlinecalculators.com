@@ -13,7 +13,7 @@ categories:
   - Beginner Workouts
   - Fitness Studio Reviews
   - Lifestyle and Fitness
-image: assets/images/1.png
+image: assets/images/1.webp
 tags:
   - Indoor Cycling
   - CycleBar

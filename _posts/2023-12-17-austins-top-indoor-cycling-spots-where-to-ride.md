@@ -7,7 +7,7 @@ categories:
   - Cycling
   - Fitness Studio Reviews
   - Austin Lifestyle
-image: assets/images/3.png
+image: assets/images/3.webp
 tags:
   - Indoor Cycling
   - Austin

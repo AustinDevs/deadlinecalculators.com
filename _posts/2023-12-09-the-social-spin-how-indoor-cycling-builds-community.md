@@ -7,7 +7,7 @@ categories:
   - Cycling
   - Health and Wellness
   - Social Wellbeing
-image: assets/images/7.png
+image: assets/images/7.webp
 tags:
   - Indoor Cycling
   - Community Building

@@ -1,7 +1,7 @@
 # Site
 name: 'Austin Indoor Cycling'
 description: 'Everything you need to know about indoor cycling in Austin, TX'
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo.webp'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 email: 'hello@austinindoorcycling.com'
@@ -21,7 +21,7 @@ authors:
   austin_indoor_cycling:
     name:           Austin Indoor Cycling
     site:           https://austinindoorcycling.com
-    avatar:         assets/images/avatar1.png
+    avatar:         assets/images/avatar1.webp
     bio:            "Everything you need to know about indoor cycling in Austin, TX"
     email:          hello@austinindoorcycling.com
  

@@ -8,7 +8,7 @@ categories:
  - Cycling
  - Austin Lifestyle
 
-image: assets/images/4.png
+image: assets/images/4.webp
 tags:
   - Indoor Cycling
   - Austin, Texas

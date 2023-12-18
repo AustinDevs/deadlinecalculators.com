@@ -7,7 +7,7 @@ categories:
  - Wellness
  - Fitness Trends
  - Community Fitness
-image: assets/images/3.png
+image: assets/images/3.webp
 tags:
   - Indoor Cycling
   - Mental Health

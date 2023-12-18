@@ -7,7 +7,7 @@ categories:
   - Fitness Inspiration
   - Cycling
   - Lifestyle Changes
-image: assets/images/6.png
+image: assets/images/6.webp
 tags:
   - Indoor Cycling
   - Life Transformation

@@ -7,7 +7,7 @@ categories:
   - Cardio Workouts
   - Health and Wellness
   - Cycling
-image: assets/images/2.png
+image: assets/images/2.webp
 tags:
   - Indoor Cycling
   - Physical Health

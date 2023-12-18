@@ -7,7 +7,7 @@ categories:
   - Cycling
   - Fitness Trends
   - Austin Lifestyle
-image: assets/images/8.png
+image: assets/images/8.webp
 tags:
   - Indoor Cycling
   - Austin

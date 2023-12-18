@@ -7,7 +7,7 @@ categories:
   - Beginner Workouts
   - Cycling
   - Health and Wellness
-image: assets/images/5.png
+image: assets/images/5.webp
 tags:
   - Indoor Cycling
   - Beginners
