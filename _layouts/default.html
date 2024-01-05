@@ -36,10 +36,12 @@
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}" style="padding-top: 0;">
 
     <!-- Navbar -->
-    {% include navbar.html %}
+    {% if page.url != "/" %}
+        {% include navbar.html %}
+    {% endif %}
 
     <!-- Content -->
-    <main role="main" class="site-content" style="margin-top: 72px;">
+    <main role="main" {% if page.url != "/" %} class="site-content" style="margin-top: 72px;" {% endif %}>
         {{ content }}
     </main>
 
@@ -59,6 +61,7 @@
             <div>
                 <span class="navbar-brand mr-2 mb-0"><strong>Deadline Calculators</strong></span>
                 <span>Copyright © <script>document.write(new Date().getFullYear())</script>.</span>
+                <span>info@deadlinecalculators.com</span>
             </div>
         </div>
         </div>

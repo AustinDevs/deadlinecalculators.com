@@ -19,7 +19,8 @@
 </div>
 	<div class="col-md-3 pr-0 text-right">
 	<a href="{{post.url}}">
-	<img class="w-100" src="{{ post.path | image }}" alt="{{ post.title }}">
+	{% assign post_slice = post.path | slice: 0, 18 %}
+	<img class="w-100" src="{{ post.path | replace: '.md', '' | replace: post_slice, '' | prepend: '/assets/images/' | append: '.webp'}}" alt="{{ post.title }}">
 	</a>
 	</div>
 </div>

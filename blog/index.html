@@ -13,10 +13,11 @@ pagination:
         
         <!-- latest post -->
         {% assign latest_post = site.posts[0] %}
+        {% assign latest_slice = latest_post.path | slice: 0, 18 %}
         <div class="col-md-6">
         <div class="card border-0 mb-4 box-shadow">   
         <a href="{{latest_post.url}}">
-        <div class="topfirstimage" style="background-image: url({{ latest_post.path | image}}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+        <div class="topfirstimage" style="background-image: url({{ latest_post.path | replace: '.md', '' | replace: latest_slice, '' | prepend: '/assets/images/' | append: '.webp'}}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
         </a>
         <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
         <h2 class="h4 font-weight-bold">
@@ -48,7 +49,8 @@ pagination:
             <div class="mb-3 d-flex align-items-center">                
                     <div class="col-md-4">
                     <a href="{{second_post.url}}">
-                     <img class="w-100" src="{{ second_post.path | image }}" alt="{{ second_post.title }}">
+                    {% assign second_slice = second_post.path | slice: 0, 18 %}
+                     <img class="w-100" src="{{ second_post.path | replace: '.md', '' | replace: second_slice, '' | prepend: '/assets/images/' | append: '.webp'}}" alt="{{ second_post.title }}">
                     </a>
                     </div>              
                     <div>
@@ -73,7 +75,8 @@ pagination:
             <div class="mb-3 d-flex align-items-center">                
                     <div class="col-md-4">
                     <a href="{{third_post.url}}">
-                     <img class="w-100" src="{{ third_post.path | image }}" alt="{{ third_post.title }}">
+                    {% assign third_slice = third_post.path | slice: 0, 18 %}
+                     <img class="w-100" src="{{ third_post.path | replace: '.md', '' | replace: third_slice, '' | prepend: '/assets/images/' | append: '.webp'}}" alt="{{ third_post.title }}">
                     </a>
                     </div>
                     <div>
@@ -98,7 +101,8 @@ pagination:
             <div class="mb-3 d-flex align-items-center">                
                     <div class="col-md-4">
                     <a href="{{fourth_post.url}}">
-                    <img class="w-100" src="{{ fourth_post.path | image }}" alt="{{ fourth_post.title }}">
+                    {% assign fourth_slice = fourth_post.path | slice: 0, 18 %}
+                    <img class="w-100" src="{{ fourth_post.path | replace: '.md', '' | replace: fourth_slice, '' | prepend: '/assets/images/' | append: '.webp'}}" alt="{{ fourth_post.title }}">
                     </a>
                     </div>
                     <div>
@@ -135,7 +139,8 @@ pagination:
                     </p>
                     <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
                 </div>
-                <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{ post | image }});">	
+                {% assign final_slice = post.path | slice: 0, 18 %}
+                <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{ post.path | replace: '.md', '' | replace: final_slice, '' | prepend: '/assets/images/' | append: '.webp'}});">	
                 </div>
             </div>
         </div>

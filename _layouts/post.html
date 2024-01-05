@@ -25,7 +25,8 @@ layout: default
 					</div>
 				</div>
 				<div class="col-md-6 pr-0 align-self-center">
-					<img class="rounded" src="{{ page.path | image}}" alt="{{ page.title }}">
+					{% assign page_slice = page.path | slice: 0, 18 %}
+					<img class="rounded" src="{{ page.path | replace: '.md', '' | replace: page_slice, '' | prepend: '/assets/images/' | append: '.webp'}}" alt="{{ page.title }}">
 				</div>
 			</div>
 		</div>
@@ -125,12 +126,14 @@ layout: default
         <div class="row prevnextlinks small font-weight-bold">
           {% if page.previous.url %}
             <div class="col-md-6 rightborder pl-0">
-                <a class="text-dark" href="{{ page.previous.url }}"><img height="30px" class="mr-1" src="{{ page.previous.path | image }}">{{page.previous.title}}</a>
+								{% assign previous_slice = page.previous.path | slice: 0, 18 %}
+                <a class="text-dark" href="{{ page.previous.url }}"><img height="30px" class="mr-1" src="{{ page.previous.path | replace: '.md', '' | replace: previous_slice, '' | prepend: '/assets/images/' | append: '.webp'}}">{{page.previous.title}}</a>
             </div>
           {% endif %}
           {% if page.next.url %}
             <div class="col-md-6 text-right pr-0">
-                <a class="text-dark" href="{{ page.next.url }}"> {{page.next.title}} <img height="30px" class="ml-1" src="{{ page.next.path | image }}"></a>
+								{% assign next_slice = page.next.path | slice: 0, 18 %}
+                <a class="text-dark" href="{{ page.next.url }}"> {{page.next.title}} <img height="30px" class="ml-1" src="{{ page.next.path | replace: '.md', '' | replace: next_slice, '' | prepend: '/assets/images/' | append: '.webp'}}"></a>
             </div>
           {% endif %}
         </div>
@@ -160,7 +163,8 @@ layout: default
 		},
 		"image": {
 			"@type": "ImageObject",
-			"url": "https://deadlinecalculators.com{{ page.path | image}}"
+			{% assign page_slice = page.path | slice: 0, 18 %}
+			"url": "https://deadlinecalculators.com{{ page.path | replace: '.md', '' | replace: page_slice, '' | prepend: '/assets/images/' | append: '.webp'}}"
 		}
 	}
 	</script>
