@@ -10,6 +10,7 @@ include: ["_pages"]
 
 # permalink: /blog/:title/
 permalink: /blog/:year/:month/:day/:title/
+url: "https://deadlinecalculators.com"
 
 # Plugins
 plugins: 
