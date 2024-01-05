@@ -35,10 +35,11 @@
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}" style="padding-top: 0;">
 
-
+    <!-- Navbar -->
+    {% include navbar.html %}
 
     <!-- Content -->
-    <main role="main" class="site-content" style="margin-top: 0;">
+    <main role="main" class="site-content" style="margin-top: 72px;">
         {{ content }}
     </main>
 
